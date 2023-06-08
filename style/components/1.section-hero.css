@@ -1,0 +1,31 @@
+.intro {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.intro__header {
+    width: 780px;
+    margin-top: 80px;
+}
+.intro__tittle {
+    display: flex;
+    color: #fff;
+    font-weight: 700;
+    font-size: 55px;
+    text-align: center;
+    align-items: center;
+}
+.intro__text {
+    font-weight: 400;
+    font-size: 34px;
+    letter-spacing: 0.2px;
+    color: #fff;
+    text-align: center;
+    margin-top: 27px;
+}
+.intro__btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 90px;
+}

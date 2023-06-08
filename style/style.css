@@ -1,0 +1,20 @@
+@import url(../style/components/header.css);
+@import url(../style/components/button.css);
+@import url(../style/components/1.section-hero.css);
+@import url(../style/components/2.section-features.css);
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    height: 900px;
+    background-image: url(../background-img/Rectangle\ 9.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container {
+    width: 1210px;
+    margin: 0 auto;
+}

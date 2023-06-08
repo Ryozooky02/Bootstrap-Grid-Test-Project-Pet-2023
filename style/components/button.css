@@ -1,0 +1,14 @@
+.intro__button {
+    border: none;
+    outline: none;
+    padding: 13px 52px;
+    border-radius: 35px;
+    color: #fff;
+    background-color: #2091F9;
+    transition: .3s ease;
+    cursor: pointer;
+}
+.intro__button:hover {
+    background-color: #fff;
+    color: black;
+}
